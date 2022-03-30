@@ -1,1 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2022-03-30T07:47:16.628Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" version="17.1.1" etag="7vXgAB14yHrTRUyR3sEg" type="github"><diagram id="UfZ13fsqmhgvGiKlium5">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-30T08:12:21.684Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="W4Sfas8LP5m90BSOebQz" version="17.1.1" type="github">
+  <diagram id="UfZ13fsqmhgvGiKlium5" name="Page-1">
+    <mxGraphModel dx="782" dy="378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JbncwG371_xoeXA_TSNl-1" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.01)&quot;&gt;第一章 研究背景与意义&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="170" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JbncwG371_xoeXA_TSNl-3" value="第三章 领域实体识别多样性研究" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="464.5" width="210" height="120" as="geometry">
+            <mxRectangle x="340" y="350" width="50" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JbncwG371_xoeXA_TSNl-4" value="PMI特征" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="JbncwG371_xoeXA_TSNl-3">
+          <mxGeometry y="30" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JbncwG371_xoeXA_TSNl-5" value="MMR特征" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="JbncwG371_xoeXA_TSNl-3">
+          <mxGeometry y="60" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JbncwG371_xoeXA_TSNl-6" value="权重自我学习和排序" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="JbncwG371_xoeXA_TSNl-3">
+          <mxGeometry y="90" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JbncwG371_xoeXA_TSNl-7" value="第二章 相关理论与技术" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="292" y="260" width="256" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="JbncwG371_xoeXA_TSNl-9" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 15px ; background-color: rgba(255 , 255 , 255 , 0.01)&quot;&gt;实体识别&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JbncwG371_xoeXA_TSNl-7">
+          <mxGeometry x="18" y="40" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JbncwG371_xoeXA_TSNl-10" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 15px ; background-color: rgba(255 , 255 , 255 , 0.01)&quot;&gt;知识库问答&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JbncwG371_xoeXA_TSNl-7">
+          <mxGeometry x="138" y="40" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JbncwG371_xoeXA_TSNl-11" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 15px ; background-color: rgba(255 , 255 , 255 , 0.01)&quot;&gt;对比模型&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JbncwG371_xoeXA_TSNl-7">
+          <mxGeometry x="18" y="100" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JbncwG371_xoeXA_TSNl-12" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 15px ; background-color: rgba(255 , 255 , 255 , 0.01)&quot;&gt;系统开发技术&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JbncwG371_xoeXA_TSNl-7">
+          <mxGeometry x="138" y="100" width="92" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JbncwG371_xoeXA_TSNl-13" value="第四章 基于知识图谱的自动问答研究" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="450" width="210" height="150" as="geometry">
+            <mxRectangle x="340" y="350" width="50" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JbncwG371_xoeXA_TSNl-14" value="问句表征模块" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="JbncwG371_xoeXA_TSNl-13">
+          <mxGeometry y="30" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JbncwG371_xoeXA_TSNl-15" value="知识图谱表征模块" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="JbncwG371_xoeXA_TSNl-13">
+          <mxGeometry y="60" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JbncwG371_xoeXA_TSNl-17" value="答案表征模块" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="JbncwG371_xoeXA_TSNl-13">
+          <mxGeometry y="90" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JbncwG371_xoeXA_TSNl-16" value="注意力机制模块" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="JbncwG371_xoeXA_TSNl-13">
+          <mxGeometry y="120" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JbncwG371_xoeXA_TSNl-18" value="第五章 医疗健康域的知识图谱问答系统设计与实现" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="650" width="278" height="120" as="geometry">
+            <mxRectangle x="340" y="350" width="50" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JbncwG371_xoeXA_TSNl-19" value="医疗实体识别" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="JbncwG371_xoeXA_TSNl-18">
+          <mxGeometry y="30" width="278" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JbncwG371_xoeXA_TSNl-20" value="医疗健康知识库问答" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="JbncwG371_xoeXA_TSNl-18">
+          <mxGeometry y="60" width="278" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JbncwG371_xoeXA_TSNl-21" value="系统设计与实现" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="JbncwG371_xoeXA_TSNl-18">
+          <mxGeometry y="90" width="278" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
